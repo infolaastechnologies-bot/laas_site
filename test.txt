@@ -1,0 +1,5 @@
+⚙️ Automation & CI/CD Topics
+Topic	Key Points to Discuss
+GitHub Actions	Automate build, test, deploy pipelines
+GitHub Secrets	Store environment variables securely
+Workflow YAML	Trigger events (push, PR, cron)
